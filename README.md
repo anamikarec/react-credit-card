@@ -1,2 +1,2 @@
-# react-credit-card
+# react-pin-component
 Created with CodeSandbox
